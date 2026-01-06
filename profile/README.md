@@ -48,5 +48,5 @@ It's a soon-to-be beautiful mess of our low-level software projects.
 ---
 
 ```
-[2025-07-16][LOG] Teck Stack: C + Caffeine ☕
+[2025-07-16][LOG] Teck Stack: C, Rust and Caffeine ☕
 ```
